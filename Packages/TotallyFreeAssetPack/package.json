@@ -1,18 +1,11 @@
 {
-  "name": "com.unity.example",
+  "name": "com.leissae.totallyfreeassetpack",
   "version": "1.2.3",
   "displayName": "TotallyFreeAssetPack",
   "description": "Freebies",
-  "unity": "2019.1",
-  "unityRelease": "0b5",
- "keywords": [
+  "keywords": [
     "keyword1",
     "keyword2",
     "keyword3"
-  ],
-  "author": {
-    "name": "Unity",
-    "email": "unity@example.com",
-    "url": "https://www.unity3d.com"
-  }
+  ]
 }
